@@ -1,2 +1,2 @@
-# Class-Sheet-smit-proframe
+# Class-Sheet-smit-programme
 HTML &amp; CSS  Assignment
